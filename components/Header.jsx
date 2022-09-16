@@ -20,7 +20,7 @@ const Header = () => {
         <div className='border-b w-full border-white-700 py-14'>
             <div className='md:float-left block'>
                 <Link href='/'>
-                    <span className='cursor-pointer font-bold text-4xl text-white'>
+                    <span className='cursor-pointer font-bold text-3xl text-white'>
                         Kenyan Open Source
                     </span>
                 </Link>
